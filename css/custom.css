@@ -1,8 +1,7 @@
 .absolute-text {
    color: #fff;
-  */
 }
-}
+
 
 
 .section-padding{
@@ -60,5 +59,5 @@
 }
 .btn{
   color:#fff;
-  background-color:#59E5F4
+  background-color:red /*only for github test*/
 }
